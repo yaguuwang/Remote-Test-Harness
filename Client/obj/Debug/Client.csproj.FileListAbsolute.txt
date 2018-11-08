@@ -1,0 +1,10 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.pdb

@@ -1,0 +1,7 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\Messages.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache

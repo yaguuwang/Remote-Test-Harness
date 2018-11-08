@@ -1,0 +1,6 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+Fawcett_10_23_2016_18_23_45.8717364.txt
+-----------------------------
+test1
+passed
+demo test that always passes
+-----------------------------
+test2
+failed
+file not loaded
+-----------------------------
+test3
+failed
+demo test that always fails
+-----------------------------
+loggerTest
+failed
+partial test of logger class
+	did pause : True
+	didn't write while paused : False
+	unpause caused writes : True
+
+-----------------------------
